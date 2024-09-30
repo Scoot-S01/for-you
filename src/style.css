@@ -178,7 +178,8 @@ body {
 }
 
 .music{
-  height: 90vh;
+  height: 100vh;
+  margin-bottom: 15px;
 }
 
 .music .description {
